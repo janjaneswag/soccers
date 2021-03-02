@@ -187,7 +187,6 @@ a.nav-link:hover {
 
 .plus-name-title {
   display: flex;
-  display: -webkit-box;
   display: -ms-flexbox;
   align-items: center;
   -webkit-box-align: center;
